@@ -1,4 +1,4 @@
-Name,Team,Positon,Age,Apps,HeightCM,WeightKG,Goals,Assists,Passes,Wins,Losses,Yellowcards,Redcards,Fouls
+Name,Team,Position,Age,Apps,HeightCM,WeightKG,Goals,Assists,Passes,Wins,Losses,Yellowcards,Redcards,Fouls
 Bernd Leno,Arsenal,Goalkeeper,29,96,190.0,83.0,0,0,2689,42,28,2,1,2
 RÃºnar Alex RÃºnarsson,Arsenal,Goalkeeper,26,1,186.0,76.0,0,0,9,0,1,0,0,0
 Karl Hein,Arsenal,Goalkeeper,19,0,193.0,,0,0,0,0,0,0,0,0
@@ -164,7 +164,7 @@ Christian Pulisic,Chelsea,Midfielder,22,51,172.0,69.0,13,5,1282,25,15,2,0,26
 Billy Gilmour,Chelsea,Midfielder,19,11,166.0,60.0,0,0,397,7,3,0,0,5
 Kai Havertz,Chelsea,Midfielder,21,26,189.0,82.0,4,3,754,10,8,2,0,26
 Faustino Anjorin,Chelsea,Midfielder,19,1,185.0,73.0,0,0,7,1,0,0,0,0
-Lewis Bate,Chelsea U21,Midfielder,18,0,,,0,0,0,0,0,0,0,0
+Lewis Bate,Chelsea,Midfielder,18,0,,,0,0,0,0,0,0,0,0
 Timo Werner,Chelsea,Forward,25,34,180.0,76.0,6,8,763,18,7,1,0,26
 Tammy Abraham,Chelsea,Forward,23,89,190.0,80.0,26,5,922,36,33,2,0,56
 Olivier Giroud,Chelsea,Forward,34,255,192.0,93.0,90,28,4937,141,59,19,2,238
@@ -426,19 +426,19 @@ Shola Shoretire,Manchester United,Forward,17,1,,,0,0,4,1,0,0,0,0
 Anthony Elanga,Manchester United,Forward,19,1,,,0,0,22,0,1,0,0,2
 Mason Greenwood,Manchester United,Forward,19,65,181.0,70.0,17,3,1269,29,15,2,0,29
 Mark Gillespie,Newcastle United,Goalkeeper,29,0,192.0,83.0,0,0,0,0,0,0,0,0
-Martin DÃºbravka,Newcastle United,Goalkeeper,32,100,190.0,80.0,0,0,2658,33,41,1,0,0
+Martin DÃºbravka,Newcastle United,Goalkeeper,32,100,190.0,80.0,0,0,2657,33,41,1,0,0
 Karl Darlow,Newcastle United,Goalkeeper,30,44,190.0,88.0,0,0,1140,11,21,3,0,0
 Daniel Langley,Newcastle United,Goalkeeper,20,0,,,0,0,0,0,0,0,0,0
 Ciaran Clark,Newcastle United,Defender,31,201,185.0,88.0,15,5,6465,50,96,50,2,187
-Paul Dummett,Newcastle United,Defender,29,142,183.0,82.0,3,0,4289,47,60,14,1,67
+Paul Dummett,Newcastle United,Defender,29,142,183.0,82.0,3,0,4291,47,60,14,1,67
 Fabian SchÃ¤r,Newcastle United,Defender,29,63,188.0,84.0,6,1,2327,22,31,21,1,79
 Jamaal Lascelles,Newcastle United,Defender,27,126,188.0,89.0,8,1,4242,36,57,19,1,82
-Emil Krafth,Newcastle United,Defender,26,32,184.0,83.0,1,1,754,10,14,4,0,15
-Federico FernÃ¡ndez,Newcastle United,Defender,32,191,190.0,83.0,4,7,7944,62,81,29,0,147
+Emil Krafth,Newcastle United,Defender,26,32,184.0,83.0,1,1,756,10,14,4,0,15
+Federico FernÃ¡ndez,Newcastle United,Defender,32,191,190.0,83.0,4,7,7947,62,81,29,0,147
 Javier Manquillo,Newcastle United,Defender,27,103,178.0,76.0,1,5,2459,29,49,15,0,78
 Jamal Lewis,Newcastle United,Defender,23,52,178.0,70.0,1,1,1694,10,36,8,0,33
-Jacob Murphy,Newcastle United,Midfielder,26,59,179.0,74.0,3,5,758,12,34,3,0,35
-Jonjo Shelvey,Newcastle United,Midfielder,29,242,184.0,80.0,21,26,10138,86,97,39,4,206
+Jacob Murphy,Newcastle United,Midfielder,26,59,179.0,74.0,3,5,760,12,34,3,0,35
+Jonjo Shelvey,Newcastle United,Midfielder,29,242,184.0,80.0,21,26,10143,86,97,39,4,206
 Matt Ritchie,Newcastle United,Midfielder,31,145,172.0,76.0,11,22,4527,44,63,26,0,171
 Isaac Hayden,Newcastle United,Midfielder,26,104,185.0,79.0,3,6,2836,36,42,22,2,125
 Miguel AlmirÃ³n,Newcastle United,Midfielder,27,79,174.0,70.0,8,3,1897,26,33,8,0,54
@@ -448,11 +448,11 @@ Jeff Hendrick,Newcastle United,Midfielder,29,143,185.0,79.0,11,6,3547,48,64,20,2
 Ryan Fraser,Newcastle United,Midfielder,27,138,163.0,70.0,16,28,3713,37,68,7,1,45
 Henri Saivet,Newcastle United,Midfielder,30,5,174.0,76.0,1,0,106,3,2,0,0,1
 Elliot Anderson,Newcastle United,Midfielder,18,1,,,0,0,1,0,1,0,0,0
-Joseph Willock,Newcastle United  (Loan) ,Midfielder,21,53,179.0,71.0,8,1,689,19,18,3,0,28
+Joseph Willock,Newcastle United  (Loan) ,Midfielder,21,53,179.0,71.0,8,1,688,19,18,3,0,28
 Matthew Longstaff,Newcastle United,Midfielder,21,14,,,2,0,394,2,8,1,0,9
 Andy Carroll,Newcastle United,Forward,32,248,193.0,79.0,54,22,4822,84,101,34,2,329
 Joelinton,Newcastle United,Forward,24,69,186.0,81.0,6,4,1402,20,29,10,0,56
-Allan Saint-Maximin,Newcastle United,Forward,24,50,173.0,67.0,6,8,831,19,19,0,0,28
+Allan Saint-Maximin,Newcastle United,Forward,24,50,173.0,67.0,6,8,832,19,19,0,0,28
 Dwight Gayle,Newcastle United,Forward,31,136,174.0,78.0,26,7,1302,31,73,8,1,83
 Callum Wilson,Newcastle United,Forward,29,152,180.0,66.0,53,17,2006,48,70,15,0,215
 Wes Foderingham,Sheffield United,Goalkeeper,30,0,185.0,75.0,0,0,0,0,0,0,0,0
@@ -462,7 +462,7 @@ George Baldock,Sheffield United,Defender,28,69,178.0,71.0,2,5,1983,19,36,13,0,92
 Enda Stevens,Sheffield United,Defender,30,74,183.0,78.0,2,4,2749,19,39,14,0,77
 Jack O'Connell,Sheffield United,Defender,27,35,190.0,85.0,0,1,1634,13,11,4,0,22
 Chris Basham,Sheffield United,Defender,32,89,190.0,80.0,1,4,2626,24,46,9,0,60
-John Egan,Sheffield United,Defender,28,66,185.0,75.0,2,1,2381,18,35,10,2,63
+John Egan,Sheffield United,Defender,28,66,185.0,75.0,2,1,2380,18,35,10,2,63
 Jack Robinson,Sheffield United,Defender,27,19,168.0,64.0,0,1,676,3,10,4,0,14
 Kean Bryan,Sheffield United,Defender,24,13,185.0,72.0,1,0,447,3,10,1,0,13
 Max Lowe,Sheffield United,Defender,24,8,175.0,74.0,0,0,172,1,6,1,0,10
@@ -473,9 +473,9 @@ Kyron Gordon,Sheffield United,Defender,18,0,,,0,0,0,0,0,0,0,0
 Harry Boyes,Sheffield United,Defender,19,0,,,0,0,0,0,0,0,0,0
 Femi Seriki,Sheffield United,Midfielder,19,1,,,0,0,0,0,1,0,0,0
 Harry Boyes,Sheffield United,Defender,19,0,,,0,0,0,0,0,0,0,0
-John Fleck,Sheffield United,Midfielder,29,60,170.0,72.0,5,4,2112,16,34,11,0,57
+John Fleck,Sheffield United,Midfielder,29,60,170.0,72.0,5,4,2113,16,34,11,0,57
 John Lundstram,Sheffield United,Midfielder,27,62,181.0,74.0,5,5,2175,17,32,13,1,51
-Oliver Norwood,Sheffield United,Midfielder,30,69,180.0,75.0,1,1,3365,20,36,14,0,57
+Oliver Norwood,Sheffield United,Midfielder,30,69,180.0,75.0,1,1,3367,20,36,14,0,57
 Ben Osborn,Sheffield United,Midfielder,26,36,176.0,75.0,1,0,951,12,20,1,0,18
 Sander Berge,Sheffield United,Midfielder,23,29,195.0,96.0,2,2,804,6,19,4,0,32
 Jack Rodwell,Sheffield United,Midfielder,30,167,188.0,80.0,10,4,3881,50,64,26,1,135
@@ -490,7 +490,7 @@ David McGoldrick,Sheffield United,Forward,33,62,183.0,74.0,9,3,1488,16,34,9,0,74
 Lys Mousset,Sheffield United,Forward,25,99,184.0,80.0,9,4,629,31,49,3,0,55
 Rhian Brewster,Sheffield United,Forward,21,26,180.0,75.0,0,0,205,4,20,1,0,18
 Antwoine Hackford,Sheffield United,Forward,17,1,,,0,0,1,0,1,0,0,0
-Daniel Jebbison,Sheffield United,Forward,17,3,190.0,,1,0,29,1,2,0,0,3
+Daniel Jebbison,Sheffield United,Forward,17,3,190.0,,1,0,28,1,2,0,0,3
 Alex McCarthy,Southampton,Goalkeeper,31,123,193.0,79.0,0,0,3171,34,55,5,0,1
 Fraser Forster,Southampton,Goalkeeper,33,115,201.0,93.0,0,0,2758,48,42,4,0,1
 Harry Lewis,Southampton,Goalkeeper,23,0,191.0,77.0,0,0,0,0,0,0,0,0
